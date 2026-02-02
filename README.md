@@ -81,7 +81,7 @@ document.getElementById("yes").addEventListener("click", () => {
     document.querySelector(".card").innerHTML = `
         <h1>YAY!!! 💕</h1>
         <p style="color:#e60073;font-size:20px;">
-        You just made me the happiest person ❤️<br><br>
+        Wuhu, you just made me the happiest person ❤️<br><br>
         – Anshita 💖
         </p>
     `;
