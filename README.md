@@ -133,11 +133,11 @@ function escapeNo() {
 /* YES click logic with confetti */
 document.getElementById("yes").addEventListener("click", () => {
     document.querySelector(".card").innerHTML = `
-        <h1>YAY!!! 💕🥰</h1>
+        <h1>YAAYYYY!💕🥰</h1>
         <p style="color:#e60073;font-size:20px;">
-        Wuhuuu, thank, you made me the happiest person. I'm so grateful for you! ❤️<br><br>
+        Wuhuuu, thank you made me the happiest person. I'm so grateful for you! ❤️<br><br>
         Happy Valentine’s Day 💖<br><br>
-        – Anshita 💕
+        – Anshi 💕
         </p>
     `;
     launchConfetti();
